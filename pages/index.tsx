@@ -1,7 +1,7 @@
 import Image from 'next/image'
 export default function Home() {
   return (
-      <div className="flex justify-center items-center min-h-screen bg-pattern-top bg-[-70%_300%] bg-no-repeat">
+      <div className="flex justify-center items-center min-h-screen bg-pattern-top bg-[-70%_1000%] bg-no-repeat">
         <div className=" bg-white w-72 shadow-2xl rounded-xl overflow-hidden">
           {/*image top*/}
           <div className="relative flex justify-center h-32 bg-pattern-card">
