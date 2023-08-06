@@ -5,7 +5,6 @@
 @tailwind utilities;
 
 body {
-    background-image: url("../public/images/bg-pattern-top.svg"), url("../public/images/bg-pattern-bottom.svg");
     background-position: -50% 150%, 150% -150%;
     background-repeat: no-repeat, no-repeat;
     background-color: #19a1ad;

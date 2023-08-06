@@ -7,6 +7,11 @@ module.exports = {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        'pattern-top': "url('/images/bg-pattern-top.svg')",
+        'pattern-bottom': "url('/images/bg-pattern-bottom.svg')",
+        'pattern-card': "url('/images/bg-pattern-card.svg')",
+      },
       fontWeight: {
         'normal': 400,
         'bold': 700,
